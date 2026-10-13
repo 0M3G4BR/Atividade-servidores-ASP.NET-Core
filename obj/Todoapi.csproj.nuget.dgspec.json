@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\TodoApi\\Todoapi.csproj": {}
+    "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\Todoapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\TodoApi\\Todoapi.csproj": {
+    "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\Todoapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\TodoApi\\Todoapi.csproj",
+        "projectUniqueName": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\Todoapi.csproj",
         "projectName": "Todoapi",
-        "projectPath": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\TodoApi\\Todoapi.csproj",
+        "projectPath": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\Todoapi.csproj",
         "packagesPath": "C:\\Users\\Caue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Caue\\Desktop\\Worspace Programação Web\\Atividade-servidor-ASP.NET Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caue\\AppData\\Roaming\\NuGet\\NuGet.Config"
